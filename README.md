@@ -15,7 +15,7 @@ A quick observation that can be seen is that all the smiley faces without face b
 
 A subset of the 'smiley face' dataset is used with 400 grayscale images
 
-
+<img width="743" alt="screen shot 2019-02-12 at 7 57 33 am" src="https://user-images.githubusercontent.com/10797531/52593603-789fea00-2e9d-11e9-8f46-71c2a667db38.png">
 
 
 
